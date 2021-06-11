@@ -1,0 +1,135 @@
+.footer__navLeft {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  background-color: #232f3e;
+  min-width: 1000px;
+  position: relative;
+}
+
+.navFooter__BacktoTop {
+  margin-bottom: 40px;
+  background-color: #37475a;
+}
+.navFooterBackToTop {
+  margin-bottom: 40px;
+  background-color: #37475a;
+}
+
+.navLeftFooter .navFooterBackToTop .navFooterBackToTopText {
+  color: #fff;
+  text-decoration: none;
+}
+.navFooterBackToTop span {
+  display: block;
+  text-align: center;
+  /* color: #111; */
+  color: #fff;
+  padding: 15px 0;
+  line-height: 19px;
+  text-decoration: none;
+  font-size: 15px;
+}
+.navAccessibility.navFooterLinkCol {
+  display: table-cell;
+  padding: 0 50px;
+}
+
+.navAccessibility.navFooterLinkCol {
+  line-height: 120%;
+}
+
+
+.navAccessibility.navFooterVerticalColumn {
+  display: table;
+  margin: 0 auto;
+}
+.navFooterVerticalColumn {
+  max-width: 1000px;
+
+}
+.navLeftFooter .navFooterVerticalColumn {
+  max-width: 1000px;
+}
+.navFooterColHead {
+  font-family: inherit;
+  color: #333;
+  font-size: 16px;
+  margin: 6px 0 14px 0;
+  white-space: nowrap;
+}
+ .navAccessibility.navFooterColSpacerInner, #navFooter .navAccessibility.navFooterLinkCol {
+  display: table-cell;
+  padding: 0 10px;
+}
+
+.navAccessibility.navFooterLinkCol {
+  line-height: 120%;
+}
+.navFooterLinkCol {
+  color: #333;
+  vertical-align: top;
+}
+
+.navFooterVerticalColumn .navFooterColSpacerInner {
+  width: 10%;
+
+}
+
+.navFooterVerticalColumn .navFooterColSpacerInner {
+  width: 10%;
+ 
+}
+#navFooter .navAccessibility.navFooterLinkCol {
+  line-height: 120%;
+}
+.navFooterLinkCol {
+  color: #333;
+  vertical-align: top;
+}
+
+.navFooterColHead {
+  font-weight: 700;
+  color: white;
+  
+}
+.navAccessibility.navFooterVerticalColumn {
+  display: table;
+  margin: 0 auto;
+}
+.navAccessibility.navFooterLinkCol {
+  display: table-cell;
+  padding: 0 10px;
+}
+.nav_a {
+  color: white;
+  text-decoration: none;
+}
+
+.navFooterLinkCol {
+  color: #333;
+  vertical-align: top;
+}
+
+.navFooterLinkCol ul li {
+  margin: 0 0 10px;
+}
+.navLeftFooter .nav_last {
+  color: #999;
+}
+.navFooterLinkCol ul li {
+  list-style-type: none;
+  white-space: nowrap;
+  /* margin: 0 0 8px 0; */
+}
+
+.navFooterLinkCol ul {
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+a:link,
+a:visited {
+  font-family: inherit;
+  color: white;
+  text-decoration: none;
+}
